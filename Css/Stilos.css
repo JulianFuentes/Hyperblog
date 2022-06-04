@@ -1,6 +1,21 @@
 body
 {
-color: darkred;
+color: rgb(146, 9, 39);
 text-align: center;
 font-family: 'Franklin Gothic Medium';
+margin: 0;
+padding:  0;
+}
+#container
+{
+width: 50%;
+padding: 1em;
+text-align: center;
+border:1px solid ;
+margin: 0 auto;
+
+}
+#container h1
+{
+    font-size: 40px;
 }
