@@ -1,47 +1,18 @@
 body
 {
-<<<<<<< HEAD
-color: rgb(71, 8, 8);
+color: rgb(4, 30, 31);
 text-align: center;
-font-family: 'Bradley Hand ITC';
+font-family: 'Algerian';
 font-size: 16px;
 margin: 0;
-padding:  0;
-=======
-color: rgb(36, 39, 8);
-text-align: center;
-font-family: 'Elephant';
-margin: 3mm;
-padding-block: green ;
->>>>>>> CABECERAdeLujo
+padding: 0;
+
 }
 #Cabecera
 {
     background: rgb(15, 119, 15);
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.75);
-    color: rgb(189, 189, 165);
-<<<<<<< HEAD
-    font-weight: bolder;
-    margin: 3mm;
-    padding: 0 0 1em;
-   
-}
-#Cabecera #Tagline
-{
-  padding: 0 0 0 1cm;
-  font-weight: bold;
-  font-size: 1.5cm;
-
-}
-
-#container
-{
-width: 60%;
-padding: 1em;
-text-align: left;
-border-style: groove;
-margin: 0 auto;
-=======
+    color: rgb(248, 248, 241);
     font-weight: bold;
     margin: 0;
     padding: 0 0 1em;
@@ -52,7 +23,7 @@ margin: 0 auto;
 #Cabecera #Tagline
 {
   padding: 0 0 0 1cm;
-  font-weight: normal;
+  font-weight: bolder;
   font-size: 0,8em;
 
 }
@@ -64,14 +35,9 @@ text-align: left;
 border:2px solid ;
 margin: 3mm;
 
->>>>>>> CABECERAdeLujo
 
 }
 #container h1
 {
-<<<<<<< HEAD
-    font-size: 60px;
-=======
     font-size: 50px;
->>>>>>> CABECERAdeLujo
 }
