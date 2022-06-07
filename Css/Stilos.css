@@ -2,20 +2,39 @@ body
 {
 color: rgb(71, 8, 8);
 text-align: center;
-font-family: 'Broadway';
+font-family: 'Bradley Hand ITC';
+font-size: 16px;
 margin: 0;
 padding:  0;
 }
+#Cabecera
+{
+    background: rgb(15, 119, 15);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.75);
+    color: rgb(189, 189, 165);
+    font-weight: bolder;
+    margin: 3mm;
+    padding: 0 0 1em;
+   
+}
+#Cabecera #Tagline
+{
+  padding: 0 0 0 1cm;
+  font-weight: bold;
+  font-size: 1.5cm;
+
+}
+
 #container
 {
 width: 60%;
 padding: 1em;
-text-align: center;
-border:1px solid ;
+text-align: left;
+border-style: groove;
 margin: 0 auto;
 
 }
 #container h1
 {
-    font-size: 40px;
+    font-size: 60px;
 }
