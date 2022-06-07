@@ -1,6 +1,6 @@
 body
 {
-color: rgb(146, 9, 39);
+color: rgb(96, 105, 8);
 text-align: center;
 font-family: 'Franklin Gothic Medium';
 margin: 0;
@@ -11,7 +11,7 @@ padding:  0;
 width: 50%;
 padding: 1em;
 text-align: center;
-border:1px solid ;
+border:2px solid ;
 margin: 0 auto;
 
 }
